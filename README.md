@@ -16,6 +16,7 @@ See the following release notes for details.
 * [x] **Ad-free playback**
 * [x] **Mini-player support**
 * [x] **Local queue support**
+* [x] **Gemini Model Updates**
 * [x] **Live stream chat support, etc**
 * [x] **Built-in video and playlist downloader**
 * [x] **Background & Picture-in-Picture support**
