@@ -21,8 +21,8 @@ See the following release notes for details.
 
 ## Screenshots
 
-<img title="" src="https://github.com/HydeYYHH/litube/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" alt="" width="200"><img title="" src="https://github.com/HydeYYHH/litube/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" alt="" width="350"><img title="" src="https://github.com/HydeYYHH/litube/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" alt="" width="200"><img title="" src="https://github.com/HydeYYHH/litube/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" alt="" width="200"><img title="" src="https://github.com/HydeYYHH/litube/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" alt="" width="200">
 
+<img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/1.jpg" alt="" width="200"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/2.jpg" alt="" width="350"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/3.jpg" alt="" width="200"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/4.jpg" alt="" width="200"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/5.jpg" alt="" width="200">
 
 ## Contributing
 
