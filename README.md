@@ -6,18 +6,19 @@ YtModwanz is an advanced webview wrapper for YouTube.
 ## Releases
 See the following release notes for details.
 
-**Lastest Release: [v2.0.2](https://github.com/HydeYYHH/litube/releases/latest)**
+**Lastest Release: [v2.0.2](https://github.com/modwanz/YtModwanz/releases/latest)**
 
-**Important Releases: [v2.0.2](https://github.com/HydeYYHH/litube/releases/tag/v2.1.0), [v2.0.2](https://github.com/HydeYYHH/litube/releases/tag/v2.0.0)**
+
+**Important Releases: [v2.0.2](https://github.com/modwanz/YtModwanz/releases/tag/v2.0.2), [v2.0.2](https://github.com/modwanz/YtModwanz/releases/tag/v2.0.2)**
 
 ## Features
-* [x] **Ad-free playback**
 * [x] **Sponsor-block**
+* [x] **Ad-free playback**
 * [x] **Mini-player support**
 * [x] **Local queue support**
-* [x] **Background & Picture-in-Picture support**
-* [x] **Built-in video and playlist downloader**
 * [x] **Live stream chat support, etc**
+* [x] **Built-in video and playlist downloader**
+* [x] **Background & Picture-in-Picture support**
 
 ## Screenshots
 
@@ -27,3 +28,4 @@ See the following release notes for details.
 ## Contributing
 
 If you encounter a bug, please check the GitHub repository to see if an issue has already been reported. If not, feel free to open a new one. Code contributions and pull requests are always welcome!
+
